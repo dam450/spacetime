@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "vunguyentuan.vscode-postcss",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
