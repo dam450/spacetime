@@ -15,5 +15,8 @@
   ],
   "[prisma]": {
     "editor.formatOnSave": true
+  },
+  "workbench.editorAssociations": {
+    "*.db": "sqlite-viewer.option"
   }
 }
