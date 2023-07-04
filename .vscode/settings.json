@@ -15,5 +15,8 @@
   ],
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.compactFolders": false
 }
