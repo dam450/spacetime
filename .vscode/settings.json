@@ -18,5 +18,8 @@
   },
   "workbench.editorAssociations": {
     "*.db": "sqlite-viewer.option"
-  }
+  },
+  "npm-intellisense.packageSubfoldersIntellisense": true,
+  "explorer.compactFolders": false,
+  "files.eol": "\n"
 }
